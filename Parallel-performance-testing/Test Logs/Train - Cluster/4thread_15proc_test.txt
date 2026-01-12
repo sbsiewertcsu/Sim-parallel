@@ -1,0 +1,1032 @@
+make: Nothing to be done for 'all'.
+4
+==================== TRIAL #1 ====================
+
+Use: simtrain [threads] [dt] [duration] [integrator is 0=Riemann, 1=Trap, 2=Simpsons, 3=RK4]
+Will simulate with thread_count=4, with dt=0.000050 for 36000000 steps for 1800.000000 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1800.000000 seconds
+Train from function in 0.965113 seconds: final velocity = 0.000000, final position = 120482.530566, ave velocity=66.934739, remaining dist=1517.469434, added time=22.670880
+rank 1 of 15, will run simulation for 1803.022784 time
+rank 1 will simulate with thread_count=4, with dt=0.000050 for 36060455 steps from a=0.000000 to b=1803.022784, for 1803.022784 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1803.022784 seconds
+rank 2 of 15, will run simulation for 1804.534176 time
+rank 2 will simulate with thread_count=4, with dt=0.000050 for 36090683 steps from a=0.000000 to b=1804.534176, for 1804.534176 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1804.534176 seconds
+rank 3 of 15, will run simulation for 1806.045568 time
+rank 3 will simulate with thread_count=4, with dt=0.000050 for 36120911 steps from a=0.000000 to b=1806.045568, for 1806.045568 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1806.045568 seconds
+rank 4 of 15, will run simulation for 1807.556960 time
+rank 4 will simulate with thread_count=4, with dt=0.000050 for 36151139 steps from a=0.000000 to b=1807.556960, for 1807.556960 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1807.556960 seconds
+rank 5 of 15, will run simulation for 1809.068352 time
+rank 5 will simulate with thread_count=4, with dt=0.000050 for 36181367 steps from a=0.000000 to b=1809.068352, for 1809.068352 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1809.068352 seconds
+rank 6 of 15, will run simulation for 1810.579744 time
+rank 6 will simulate with thread_count=4, with dt=0.000050 for 36211594 steps from a=0.000000 to b=1810.579744, for 1810.579744 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1810.579744 seconds
+rank 7 of 15, will run simulation for 1812.091136 time
+rank 7 will simulate with thread_count=4, with dt=0.000050 for 36241822 steps from a=0.000000 to b=1812.091136, for 1812.091136 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1812.091136 seconds
+rank 8 of 15, will run simulation for 1813.602528 time
+rank 8 will simulate with thread_count=4, with dt=0.000050 for 36272050 steps from a=0.000000 to b=1813.602528, for 1813.602528 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1813.602528 seconds
+rank 9 of 15, will run simulation for 1815.113920 time
+rank 9 will simulate with thread_count=4, with dt=0.000050 for 36302278 steps from a=0.000000 to b=1815.113920, for 1815.113920 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1815.113920 seconds
+rank 10 of 15, will run simulation for 1816.625312 time
+rank 10 will simulate with thread_count=4, with dt=0.000050 for 36332506 steps from a=0.000000 to b=1816.625312, for 1816.625312 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1816.625312 seconds
+rank 11 of 15, will run simulation for 1818.136704 time
+rank 11 will simulate with thread_count=4, with dt=0.000050 for 36362734 steps from a=0.000000 to b=1818.136704, for 1818.136704 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1818.136704 seconds
+rank 12 of 15, will run simulation for 1819.648096 time
+rank 12 will simulate with thread_count=4, with dt=0.000050 for 36392961 steps from a=0.000000 to b=1819.648096, for 1819.648096 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1819.648096 seconds
+rank 13 of 15, will run simulation for 1821.159488 time
+rank 13 will simulate with thread_count=4, with dt=0.000050 for 36423189 steps from a=0.000000 to b=1821.159488, for 1821.159488 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1821.159488 seconds
+rank 0 of 15, will run simulation for 1801.511392 time
+rank 0 will simulate with thread_count=4, with dt=0.000050 for 36030227 steps from a=0.000000 to b=1801.511392, for 1801.511392 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1801.511392 seconds
+rank 14 of 15, will run simulation for 1822.670880 time
+rank 14 will simulate with thread_count=4, with dt=0.000050 for 36453417 steps from a=0.000000 to b=1822.670880, for 1822.670880 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1822.670880 seconds
+Rank 0, simulated train from function in 0.998778 seconds: final velocity = 0.000000, final position = 120684.944768, ave velocity=66.990942, remaining dist=1315.055232, added time=19.630344
+Rank 1, simulated train from function in 3.059595 seconds: final velocity = 0.000000, final position = 120887.528858, ave velocity=67.047144, remaining dist=1112.471142, added time=16.592372
+Rank 3, simulated train from function in 3.043246 seconds: final velocity = -0.000000, final position = 121293.206703, ave velocity=67.159549, remaining dist=706.793297, added time=10.524092
+Rank 2, simulated train from function in 3.069389 seconds: final velocity = 0.000000, final position = 121090.282837, ave velocity=67.103347, remaining dist=909.717163, added time=13.556957
+Rank 4, simulated train from function in 3.063192 seconds: final velocity = -0.000000, final position = 121496.300458, ave velocity=67.215752, remaining dist=503.699542, added time=7.493772
+Rank 5, simulated train from function in 3.066586 seconds: final velocity = 0.000000, final position = 121699.564101, ave velocity=67.271955, remaining dist=300.435899, added time=4.465990
+Rank 7, simulated train from function in 3.045631 seconds: final velocity = 0.000000, final position = 122106.601052, ave velocity=67.384360, remaining dist=-106.601052, added time=-1.581985
+Rank 6, simulated train from function in 3.082745 seconds: final velocity = 0.000000, final position = 121902.997633, ave velocity=67.328157, remaining dist=97.002367, added time=1.440740
+Rank 8, simulated train from function in 3.074223 seconds: final velocity = -0.000000, final position = 122310.374360, ave velocity=67.440562, remaining dist=-310.374360, added time=-4.602191
+Rank 9, simulated train from function in 3.070302 seconds: final velocity = 0.000000, final position = 122514.317556, ave velocity=67.496765, remaining dist=-514.317556, added time=-7.619885
+Rank 10, simulated train from function in 3.079124 seconds: final velocity = -0.000000, final position = 122718.430641, ave velocity=67.552967, remaining dist=-718.430641, added time=-10.635072
+Rank 13, simulated train from function in 3.048642 seconds: final velocity = 0.000000, final position = 123331.789223, ave velocity=67.721575, remaining dist=-1331.789223, added time=-19.665656
+Rank 14, simulated train from function in 3.088780 seconds: final velocity = -0.000000, final position = 123536.581860, ave velocity=67.777778, remaining dist=-1536.581860, added time=-22.670880
+Rank 12, simulated train from function in 3.137645 seconds: final velocity = 0.000000, final position = 123127.166474, ave velocity=67.665373, remaining dist=-1127.166474, added time=-16.657951
+Rank 11, simulated train from function in 3.715688 seconds: final velocity = -0.000000, final position = 122922.713613, ave velocity=67.609170, remaining dist=-922.713613, added time=-13.647758
+rank = 6 has leastErr=97.002367, leastErr=97.002367
+
+Program total runtime (seconds):
+4.911338
+================== END TRIAL #1 ==================
+==================== TRIAL #2 ====================
+
+Use: simtrain [threads] [dt] [duration] [integrator is 0=Riemann, 1=Trap, 2=Simpsons, 3=RK4]
+Will simulate with thread_count=4, with dt=0.000050 for 36000000 steps for 1800.000000 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1800.000000 seconds
+Train from function in 0.968346 seconds: final velocity = 0.000000, final position = 120482.530566, ave velocity=66.934739, remaining dist=1517.469434, added time=22.670880
+rank 1 of 15, will run simulation for 1803.022784 time
+rank 1 will simulate with thread_count=4, with dt=0.000050 for 36060455 steps from a=0.000000 to b=1803.022784, for 1803.022784 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1803.022784 seconds
+rank 2 of 15, will run simulation for 1804.534176 time
+rank 2 will simulate with thread_count=4, with dt=0.000050 for 36090683 steps from a=0.000000 to b=1804.534176, for 1804.534176 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1804.534176 seconds
+rank 3 of 15, will run simulation for 1806.045568 time
+rank 3 will simulate with thread_count=4, with dt=0.000050 for 36120911 steps from a=0.000000 to b=1806.045568, for 1806.045568 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1806.045568 seconds
+rank 4 of 15, will run simulation for 1807.556960 time
+rank 4 will simulate with thread_count=4, with dt=0.000050 for 36151139 steps from a=0.000000 to b=1807.556960, for 1807.556960 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1807.556960 seconds
+rank 5 of 15, will run simulation for 1809.068352 time
+rank 5 will simulate with thread_count=4, with dt=0.000050 for 36181367 steps from a=0.000000 to b=1809.068352, for 1809.068352 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1809.068352 seconds
+rank 6 of 15, will run simulation for 1810.579744 time
+rank 6 will simulate with thread_count=4, with dt=0.000050 for 36211594 steps from a=0.000000 to b=1810.579744, for 1810.579744 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1810.579744 seconds
+rank 7 of 15, will run simulation for 1812.091136 time
+rank 7 will simulate with thread_count=4, with dt=0.000050 for 36241822 steps from a=0.000000 to b=1812.091136, for 1812.091136 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1812.091136 seconds
+rank 8 of 15, will run simulation for 1813.602528 time
+rank 8 will simulate with thread_count=4, with dt=0.000050 for 36272050 steps from a=0.000000 to b=1813.602528, for 1813.602528 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1813.602528 seconds
+rank 9 of 15, will run simulation for 1815.113920 time
+rank 9 will simulate with thread_count=4, with dt=0.000050 for 36302278 steps from a=0.000000 to b=1815.113920, for 1815.113920 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1815.113920 seconds
+rank 10 of 15, will run simulation for 1816.625312 time
+rank 10 will simulate with thread_count=4, with dt=0.000050 for 36332506 steps from a=0.000000 to b=1816.625312, for 1816.625312 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1816.625312 seconds
+rank 11 of 15, will run simulation for 1818.136704 time
+rank 11 will simulate with thread_count=4, with dt=0.000050 for 36362734 steps from a=0.000000 to b=1818.136704, for 1818.136704 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1818.136704 seconds
+rank 12 of 15, will run simulation for 1819.648096 time
+rank 12 will simulate with thread_count=4, with dt=0.000050 for 36392961 steps from a=0.000000 to b=1819.648096, for 1819.648096 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1819.648096 seconds
+rank 13 of 15, will run simulation for 1821.159488 time
+rank 13 will simulate with thread_count=4, with dt=0.000050 for 36423189 steps from a=0.000000 to b=1821.159488, for 1821.159488 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1821.159488 seconds
+rank 14 of 15, will run simulation for 1822.670880 time
+rank 14 will simulate with thread_count=4, with dt=0.000050 for 36453417 steps from a=0.000000 to b=1822.670880, for 1822.670880 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1822.670880 seconds
+rank 0 of 15, will run simulation for 1801.511392 time
+rank 0 will simulate with thread_count=4, with dt=0.000050 for 36030227 steps from a=0.000000 to b=1801.511392, for 1801.511392 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1801.511392 seconds
+Rank 0, simulated train from function in 0.965912 seconds: final velocity = 0.000000, final position = 120684.944768, ave velocity=66.990942, remaining dist=1315.055232, added time=19.630344
+Rank 1, simulated train from function in 3.036517 seconds: final velocity = 0.000000, final position = 120887.528858, ave velocity=67.047144, remaining dist=1112.471142, added time=16.592372
+Rank 3, simulated train from function in 3.039516 seconds: final velocity = -0.000000, final position = 121293.206703, ave velocity=67.159549, remaining dist=706.793297, added time=10.524092
+Rank 2, simulated train from function in 3.063721 seconds: final velocity = 0.000000, final position = 121090.282837, ave velocity=67.103347, remaining dist=909.717163, added time=13.556957
+Rank 4, simulated train from function in 3.063580 seconds: final velocity = -0.000000, final position = 121496.300458, ave velocity=67.215752, remaining dist=503.699542, added time=7.493772
+Rank 6, simulated train from function in 3.070461 seconds: final velocity = 0.000000, final position = 121902.997633, ave velocity=67.328157, remaining dist=97.002367, added time=1.440740
+Rank 5, simulated train from function in 3.106997 seconds: final velocity = 0.000000, final position = 121699.564101, ave velocity=67.271955, remaining dist=300.435899, added time=4.465990
+Rank 7, simulated train from function in 3.078261 seconds: final velocity = 0.000000, final position = 122106.601052, ave velocity=67.384360, remaining dist=-106.601052, added time=-1.581985
+Rank 8, simulated train from function in 3.074225 seconds: final velocity = -0.000000, final position = 122310.374360, ave velocity=67.440562, remaining dist=-310.374360, added time=-4.602191
+Rank 9, simulated train from function in 3.082416 seconds: final velocity = 0.000000, final position = 122514.317556, ave velocity=67.496765, remaining dist=-514.317556, added time=-7.619885
+Rank 11, simulated train from function in 3.061108 seconds: final velocity = -0.000000, final position = 122922.713613, ave velocity=67.609170, remaining dist=-922.713613, added time=-13.647758
+Rank 10, simulated train from function in 3.081321 seconds: final velocity = -0.000000, final position = 122718.430641, ave velocity=67.552967, remaining dist=-718.430641, added time=-10.635072
+Rank 12, simulated train from function in 3.086009 seconds: final velocity = 0.000000, final position = 123127.166474, ave velocity=67.665373, remaining dist=-1127.166474, added time=-16.657951
+Rank 14, simulated train from function in 3.066808 seconds: final velocity = -0.000000, final position = 123536.581860, ave velocity=67.777778, remaining dist=-1536.581860, added time=-22.670880
+Rank 13, simulated train from function in 3.087517 seconds: final velocity = 0.000000, final position = 123331.789223, ave velocity=67.721575, remaining dist=-1331.789223, added time=-19.665656
+rank = 6 has leastErr=97.002367, leastErr=97.002367
+
+Program total runtime (seconds):
+4.334579
+================== END TRIAL #2 ==================
+==================== TRIAL #3 ====================
+
+Use: simtrain [threads] [dt] [duration] [integrator is 0=Riemann, 1=Trap, 2=Simpsons, 3=RK4]
+Will simulate with thread_count=4, with dt=0.000050 for 36000000 steps for 1800.000000 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1800.000000 seconds
+Train from function in 0.962146 seconds: final velocity = 0.000000, final position = 120482.530566, ave velocity=66.934739, remaining dist=1517.469434, added time=22.670880
+rank 1 of 15, will run simulation for 1803.022784 time
+rank 1 will simulate with thread_count=4, with dt=0.000050 for 36060455 steps from a=0.000000 to b=1803.022784, for 1803.022784 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1803.022784 seconds
+rank 2 of 15, will run simulation for 1804.534176 time
+rank 2 will simulate with thread_count=4, with dt=0.000050 for 36090683 steps from a=0.000000 to b=1804.534176, for 1804.534176 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1804.534176 seconds
+rank 3 of 15, will run simulation for 1806.045568 time
+rank 3 will simulate with thread_count=4, with dt=0.000050 for 36120911 steps from a=0.000000 to b=1806.045568, for 1806.045568 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1806.045568 seconds
+rank 4 of 15, will run simulation for 1807.556960 time
+rank 4 will simulate with thread_count=4, with dt=0.000050 for 36151139 steps from a=0.000000 to b=1807.556960, for 1807.556960 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1807.556960 seconds
+rank 5 of 15, will run simulation for 1809.068352 time
+rank 5 will simulate with thread_count=4, with dt=0.000050 for 36181367 steps from a=0.000000 to b=1809.068352, for 1809.068352 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1809.068352 seconds
+rank 6 of 15, will run simulation for 1810.579744 time
+rank 6 will simulate with thread_count=4, with dt=0.000050 for 36211594 steps from a=0.000000 to b=1810.579744, for 1810.579744 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1810.579744 seconds
+rank 7 of 15, will run simulation for 1812.091136 time
+rank 7 will simulate with thread_count=4, with dt=0.000050 for 36241822 steps from a=0.000000 to b=1812.091136, for 1812.091136 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1812.091136 seconds
+rank 8 of 15, will run simulation for 1813.602528 time
+rank 8 will simulate with thread_count=4, with dt=0.000050 for 36272050 steps from a=0.000000 to b=1813.602528, for 1813.602528 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1813.602528 seconds
+rank 9 of 15, will run simulation for 1815.113920 time
+rank 9 will simulate with thread_count=4, with dt=0.000050 for 36302278 steps from a=0.000000 to b=1815.113920, for 1815.113920 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1815.113920 seconds
+rank 10 of 15, will run simulation for 1816.625312 time
+rank 10 will simulate with thread_count=4, with dt=0.000050 for 36332506 steps from a=0.000000 to b=1816.625312, for 1816.625312 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1816.625312 seconds
+rank 11 of 15, will run simulation for 1818.136704 time
+rank 11 will simulate with thread_count=4, with dt=0.000050 for 36362734 steps from a=0.000000 to b=1818.136704, for 1818.136704 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1818.136704 seconds
+rank 12 of 15, will run simulation for 1819.648096 time
+rank 12 will simulate with thread_count=4, with dt=0.000050 for 36392961 steps from a=0.000000 to b=1819.648096, for 1819.648096 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1819.648096 seconds
+rank 13 of 15, will run simulation for 1821.159488 time
+rank 13 will simulate with thread_count=4, with dt=0.000050 for 36423189 steps from a=0.000000 to b=1821.159488, for 1821.159488 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1821.159488 seconds
+rank 0 of 15, will run simulation for 1801.511392 time
+rank 0 will simulate with thread_count=4, with dt=0.000050 for 36030227 steps from a=0.000000 to b=1801.511392, for 1801.511392 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1801.511392 seconds
+rank 14 of 15, will run simulation for 1822.670880 time
+rank 14 will simulate with thread_count=4, with dt=0.000050 for 36453417 steps from a=0.000000 to b=1822.670880, for 1822.670880 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1822.670880 seconds
+Rank 0, simulated train from function in 0.962736 seconds: final velocity = 0.000000, final position = 120684.944768, ave velocity=66.990942, remaining dist=1315.055232, added time=19.630344
+Rank 1, simulated train from function in 3.006153 seconds: final velocity = 0.000000, final position = 120887.528858, ave velocity=67.047144, remaining dist=1112.471142, added time=16.592372
+Rank 3, simulated train from function in 3.041819 seconds: final velocity = -0.000000, final position = 121293.206703, ave velocity=67.159549, remaining dist=706.793297, added time=10.524092
+Rank 4, simulated train from function in 3.064114 seconds: final velocity = -0.000000, final position = 121496.300458, ave velocity=67.215752, remaining dist=503.699542, added time=7.493772
+Rank 2, simulated train from function in 3.107939 seconds: final velocity = 0.000000, final position = 121090.282837, ave velocity=67.103347, remaining dist=909.717163, added time=13.556957
+Rank 5, simulated train from function in 3.067825 seconds: final velocity = 0.000000, final position = 121699.564101, ave velocity=67.271955, remaining dist=300.435899, added time=4.465990
+Rank 6, simulated train from function in 3.071295 seconds: final velocity = 0.000000, final position = 121902.997633, ave velocity=67.328157, remaining dist=97.002367, added time=1.440740
+Rank 7, simulated train from function in 3.074147 seconds: final velocity = 0.000000, final position = 122106.601052, ave velocity=67.384360, remaining dist=-106.601052, added time=-1.581985
+Rank 8, simulated train from function in 3.073650 seconds: final velocity = -0.000000, final position = 122310.374360, ave velocity=67.440562, remaining dist=-310.374360, added time=-4.602191
+Rank 9, simulated train from function in 3.071884 seconds: final velocity = 0.000000, final position = 122514.317556, ave velocity=67.496765, remaining dist=-514.317556, added time=-7.619885
+Rank 10, simulated train from function in 3.079521 seconds: final velocity = -0.000000, final position = 122718.430641, ave velocity=67.552967, remaining dist=-718.430641, added time=-10.635072
+Rank 12, simulated train from function in 3.085375 seconds: final velocity = 0.000000, final position = 123127.166474, ave velocity=67.665373, remaining dist=-1127.166474, added time=-16.657951
+Rank 13, simulated train from function in 3.086087 seconds: final velocity = 0.000000, final position = 123331.789223, ave velocity=67.721575, remaining dist=-1331.789223, added time=-19.665656
+Rank 14, simulated train from function in 3.093380 seconds: final velocity = -0.000000, final position = 123536.581860, ave velocity=67.777778, remaining dist=-1536.581860, added time=-22.670880
+Rank 11, simulated train from function in 3.152859 seconds: final velocity = -0.000000, final position = 122922.713613, ave velocity=67.609170, remaining dist=-922.713613, added time=-13.647758
+rank = 6 has leastErr=97.002367, leastErr=97.002367
+
+Program total runtime (seconds):
+4.383260
+================== END TRIAL #3 ==================
+==================== TRIAL #4 ====================
+
+Use: simtrain [threads] [dt] [duration] [integrator is 0=Riemann, 1=Trap, 2=Simpsons, 3=RK4]
+Will simulate with thread_count=4, with dt=0.000050 for 36000000 steps for 1800.000000 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1800.000000 seconds
+Train from function in 1.059518 seconds: final velocity = 0.000000, final position = 120482.530566, ave velocity=66.934739, remaining dist=1517.469434, added time=22.670880
+rank 1 of 15, will run simulation for 1803.022784 time
+rank 1 will simulate with thread_count=4, with dt=0.000050 for 36060455 steps from a=0.000000 to b=1803.022784, for 1803.022784 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1803.022784 seconds
+rank 2 of 15, will run simulation for 1804.534176 time
+rank 2 will simulate with thread_count=4, with dt=0.000050 for 36090683 steps from a=0.000000 to b=1804.534176, for 1804.534176 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1804.534176 seconds
+rank 3 of 15, will run simulation for 1806.045568 time
+rank 3 will simulate with thread_count=4, with dt=0.000050 for 36120911 steps from a=0.000000 to b=1806.045568, for 1806.045568 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1806.045568 seconds
+rank 4 of 15, will run simulation for 1807.556960 time
+rank 4 will simulate with thread_count=4, with dt=0.000050 for 36151139 steps from a=0.000000 to b=1807.556960, for 1807.556960 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1807.556960 seconds
+rank 5 of 15, will run simulation for 1809.068352 time
+rank 5 will simulate with thread_count=4, with dt=0.000050 for 36181367 steps from a=0.000000 to b=1809.068352, for 1809.068352 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1809.068352 seconds
+rank 6 of 15, will run simulation for 1810.579744 time
+rank 6 will simulate with thread_count=4, with dt=0.000050 for 36211594 steps from a=0.000000 to b=1810.579744, for 1810.579744 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1810.579744 seconds
+rank 7 of 15, will run simulation for 1812.091136 time
+rank 7 will simulate with thread_count=4, with dt=0.000050 for 36241822 steps from a=0.000000 to b=1812.091136, for 1812.091136 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1812.091136 seconds
+rank 8 of 15, will run simulation for 1813.602528 time
+rank 8 will simulate with thread_count=4, with dt=0.000050 for 36272050 steps from a=0.000000 to b=1813.602528, for 1813.602528 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1813.602528 seconds
+rank 9 of 15, will run simulation for 1815.113920 time
+rank 9 will simulate with thread_count=4, with dt=0.000050 for 36302278 steps from a=0.000000 to b=1815.113920, for 1815.113920 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1815.113920 seconds
+rank 10 of 15, will run simulation for 1816.625312 time
+rank 10 will simulate with thread_count=4, with dt=0.000050 for 36332506 steps from a=0.000000 to b=1816.625312, for 1816.625312 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1816.625312 seconds
+rank 11 of 15, will run simulation for 1818.136704 time
+rank 11 will simulate with thread_count=4, with dt=0.000050 for 36362734 steps from a=0.000000 to b=1818.136704, for 1818.136704 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1818.136704 seconds
+rank 12 of 15, will run simulation for 1819.648096 time
+rank 12 will simulate with thread_count=4, with dt=0.000050 for 36392961 steps from a=0.000000 to b=1819.648096, for 1819.648096 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1819.648096 seconds
+rank 13 of 15, will run simulation for 1821.159488 time
+rank 13 will simulate with thread_count=4, with dt=0.000050 for 36423189 steps from a=0.000000 to b=1821.159488, for 1821.159488 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1821.159488 seconds
+rank 0 of 15, will run simulation for 1801.511392 time
+rank 0 will simulate with thread_count=4, with dt=0.000050 for 36030227 steps from a=0.000000 to b=1801.511392, for 1801.511392 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1801.511392 seconds
+rank 14 of 15, will run simulation for 1822.670880 time
+rank 14 will simulate with thread_count=4, with dt=0.000050 for 36453417 steps from a=0.000000 to b=1822.670880, for 1822.670880 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1822.670880 seconds
+Rank 0, simulated train from function in 1.056914 seconds: final velocity = 0.000000, final position = 120684.944768, ave velocity=66.990942, remaining dist=1315.055232, added time=19.630344
+Rank 1, simulated train from function in 3.019065 seconds: final velocity = 0.000000, final position = 120887.528858, ave velocity=67.047144, remaining dist=1112.471142, added time=16.592372
+Rank 2, simulated train from function in 3.007559 seconds: final velocity = 0.000000, final position = 121090.282837, ave velocity=67.103347, remaining dist=909.717163, added time=13.556957
+Rank 3, simulated train from function in 3.079581 seconds: final velocity = -0.000000, final position = 121293.206703, ave velocity=67.159549, remaining dist=706.793297, added time=10.524092
+Rank 4, simulated train from function in 3.064381 seconds: final velocity = -0.000000, final position = 121496.300458, ave velocity=67.215752, remaining dist=503.699542, added time=7.493772
+Rank 5, simulated train from function in 3.069985 seconds: final velocity = 0.000000, final position = 121699.564101, ave velocity=67.271955, remaining dist=300.435899, added time=4.465990
+Rank 6, simulated train from function in 3.068384 seconds: final velocity = 0.000000, final position = 121902.997633, ave velocity=67.328157, remaining dist=97.002367, added time=1.440740
+Rank 7, simulated train from function in 3.073101 seconds: final velocity = 0.000000, final position = 122106.601052, ave velocity=67.384360, remaining dist=-106.601052, added time=-1.581985
+Rank 8, simulated train from function in 3.073613 seconds: final velocity = -0.000000, final position = 122310.374360, ave velocity=67.440562, remaining dist=-310.374360, added time=-4.602191
+Rank 9, simulated train from function in 3.076019 seconds: final velocity = 0.000000, final position = 122514.317556, ave velocity=67.496765, remaining dist=-514.317556, added time=-7.619885
+Rank 10, simulated train from function in 3.080539 seconds: final velocity = -0.000000, final position = 122718.430641, ave velocity=67.552967, remaining dist=-718.430641, added time=-10.635072
+Rank 13, simulated train from function in 3.045197 seconds: final velocity = 0.000000, final position = 123331.789223, ave velocity=67.721575, remaining dist=-1331.789223, added time=-19.665656
+Rank 11, simulated train from function in 3.092347 seconds: final velocity = -0.000000, final position = 122922.713613, ave velocity=67.609170, remaining dist=-922.713613, added time=-13.647758
+Rank 12, simulated train from function in 3.084217 seconds: final velocity = 0.000000, final position = 123127.166474, ave velocity=67.665373, remaining dist=-1127.166474, added time=-16.657951
+Rank 14, simulated train from function in 3.097954 seconds: final velocity = -0.000000, final position = 123536.581860, ave velocity=67.777778, remaining dist=-1536.581860, added time=-22.670880
+rank = 6 has leastErr=97.002367, leastErr=97.002367
+
+Program total runtime (seconds):
+4.471846
+================== END TRIAL #4 ==================
+==================== TRIAL #5 ====================
+
+Use: simtrain [threads] [dt] [duration] [integrator is 0=Riemann, 1=Trap, 2=Simpsons, 3=RK4]
+Will simulate with thread_count=4, with dt=0.000050 for 36000000 steps for 1800.000000 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1800.000000 seconds
+Train from function in 0.985852 seconds: final velocity = 0.000000, final position = 120482.530566, ave velocity=66.934739, remaining dist=1517.469434, added time=22.670880
+rank 1 of 15, will run simulation for 1803.022784 time
+rank 1 will simulate with thread_count=4, with dt=0.000050 for 36060455 steps from a=0.000000 to b=1803.022784, for 1803.022784 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1803.022784 seconds
+rank 2 of 15, will run simulation for 1804.534176 time
+rank 2 will simulate with thread_count=4, with dt=0.000050 for 36090683 steps from a=0.000000 to b=1804.534176, for 1804.534176 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1804.534176 seconds
+rank 3 of 15, will run simulation for 1806.045568 time
+rank 3 will simulate with thread_count=4, with dt=0.000050 for 36120911 steps from a=0.000000 to b=1806.045568, for 1806.045568 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1806.045568 seconds
+rank 4 of 15, will run simulation for 1807.556960 time
+rank 4 will simulate with thread_count=4, with dt=0.000050 for 36151139 steps from a=0.000000 to b=1807.556960, for 1807.556960 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1807.556960 seconds
+rank 5 of 15, will run simulation for 1809.068352 time
+rank 5 will simulate with thread_count=4, with dt=0.000050 for 36181367 steps from a=0.000000 to b=1809.068352, for 1809.068352 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1809.068352 seconds
+rank 6 of 15, will run simulation for 1810.579744 time
+rank 6 will simulate with thread_count=4, with dt=0.000050 for 36211594 steps from a=0.000000 to b=1810.579744, for 1810.579744 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1810.579744 seconds
+rank 7 of 15, will run simulation for 1812.091136 time
+rank 7 will simulate with thread_count=4, with dt=0.000050 for 36241822 steps from a=0.000000 to b=1812.091136, for 1812.091136 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1812.091136 seconds
+rank 8 of 15, will run simulation for 1813.602528 time
+rank 8 will simulate with thread_count=4, with dt=0.000050 for 36272050 steps from a=0.000000 to b=1813.602528, for 1813.602528 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1813.602528 seconds
+rank 9 of 15, will run simulation for 1815.113920 time
+rank 9 will simulate with thread_count=4, with dt=0.000050 for 36302278 steps from a=0.000000 to b=1815.113920, for 1815.113920 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1815.113920 seconds
+rank 10 of 15, will run simulation for 1816.625312 time
+rank 10 will simulate with thread_count=4, with dt=0.000050 for 36332506 steps from a=0.000000 to b=1816.625312, for 1816.625312 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1816.625312 seconds
+rank 11 of 15, will run simulation for 1818.136704 time
+rank 11 will simulate with thread_count=4, with dt=0.000050 for 36362734 steps from a=0.000000 to b=1818.136704, for 1818.136704 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1818.136704 seconds
+rank 12 of 15, will run simulation for 1819.648096 time
+rank 12 will simulate with thread_count=4, with dt=0.000050 for 36392961 steps from a=0.000000 to b=1819.648096, for 1819.648096 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1819.648096 seconds
+rank 13 of 15, will run simulation for 1821.159488 time
+rank 13 will simulate with thread_count=4, with dt=0.000050 for 36423189 steps from a=0.000000 to b=1821.159488, for 1821.159488 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1821.159488 seconds
+rank 0 of 15, will run simulation for 1801.511392 time
+rank 0 will simulate with thread_count=4, with dt=0.000050 for 36030227 steps from a=0.000000 to b=1801.511392, for 1801.511392 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1801.511392 seconds
+rank 14 of 15, will run simulation for 1822.670880 time
+rank 14 will simulate with thread_count=4, with dt=0.000050 for 36453417 steps from a=0.000000 to b=1822.670880, for 1822.670880 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1822.670880 seconds
+Rank 0, simulated train from function in 0.964771 seconds: final velocity = 0.000000, final position = 120684.944768, ave velocity=66.990942, remaining dist=1315.055232, added time=19.630344
+Rank 1, simulated train from function in 3.010481 seconds: final velocity = 0.000000, final position = 120887.528858, ave velocity=67.047144, remaining dist=1112.471142, added time=16.592372
+Rank 2, simulated train from function in 3.064711 seconds: final velocity = 0.000000, final position = 121090.282837, ave velocity=67.103347, remaining dist=909.717163, added time=13.556957
+Rank 3, simulated train from function in 3.061784 seconds: final velocity = -0.000000, final position = 121293.206703, ave velocity=67.159549, remaining dist=706.793297, added time=10.524092
+Rank 4, simulated train from function in 3.065892 seconds: final velocity = -0.000000, final position = 121496.300458, ave velocity=67.215752, remaining dist=503.699542, added time=7.493772
+Rank 5, simulated train from function in 3.066466 seconds: final velocity = 0.000000, final position = 121699.564101, ave velocity=67.271955, remaining dist=300.435899, added time=4.465990
+Rank 6, simulated train from function in 3.069943 seconds: final velocity = 0.000000, final position = 121902.997633, ave velocity=67.328157, remaining dist=97.002367, added time=1.440740
+Rank 8, simulated train from function in 3.076440 seconds: final velocity = -0.000000, final position = 122310.374360, ave velocity=67.440562, remaining dist=-310.374360, added time=-4.602191
+Rank 9, simulated train from function in 3.075564 seconds: final velocity = 0.000000, final position = 122514.317556, ave velocity=67.496765, remaining dist=-514.317556, added time=-7.619885
+Rank 10, simulated train from function in 3.075848 seconds: final velocity = -0.000000, final position = 122718.430641, ave velocity=67.552967, remaining dist=-718.430641, added time=-10.635072
+Rank 11, simulated train from function in 3.057139 seconds: final velocity = -0.000000, final position = 122922.713613, ave velocity=67.609170, remaining dist=-922.713613, added time=-13.647758
+Rank 7, simulated train from function in 3.131791 seconds: final velocity = 0.000000, final position = 122106.601052, ave velocity=67.384360, remaining dist=-106.601052, added time=-1.581985
+Rank 12, simulated train from function in 3.084916 seconds: final velocity = 0.000000, final position = 123127.166474, ave velocity=67.665373, remaining dist=-1127.166474, added time=-16.657951
+Rank 13, simulated train from function in 3.086616 seconds: final velocity = 0.000000, final position = 123331.789223, ave velocity=67.721575, remaining dist=-1331.789223, added time=-19.665656
+Rank 14, simulated train from function in 3.090269 seconds: final velocity = -0.000000, final position = 123536.581860, ave velocity=67.777778, remaining dist=-1536.581860, added time=-22.670880
+rank = 6 has leastErr=97.002367, leastErr=97.002367
+
+Program total runtime (seconds):
+4.385371
+================== END TRIAL #5 ==================
+==================== TRIAL #6 ====================
+
+Use: simtrain [threads] [dt] [duration] [integrator is 0=Riemann, 1=Trap, 2=Simpsons, 3=RK4]
+Will simulate with thread_count=4, with dt=0.000050 for 36000000 steps for 1800.000000 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1800.000000 seconds
+Train from function in 0.961474 seconds: final velocity = 0.000000, final position = 120482.530566, ave velocity=66.934739, remaining dist=1517.469434, added time=22.670880
+rank 1 of 15, will run simulation for 1803.022784 time
+rank 1 will simulate with thread_count=4, with dt=0.000050 for 36060455 steps from a=0.000000 to b=1803.022784, for 1803.022784 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1803.022784 seconds
+rank 2 of 15, will run simulation for 1804.534176 time
+rank 2 will simulate with thread_count=4, with dt=0.000050 for 36090683 steps from a=0.000000 to b=1804.534176, for 1804.534176 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1804.534176 seconds
+rank 3 of 15, will run simulation for 1806.045568 time
+rank 3 will simulate with thread_count=4, with dt=0.000050 for 36120911 steps from a=0.000000 to b=1806.045568, for 1806.045568 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1806.045568 seconds
+rank 4 of 15, will run simulation for 1807.556960 time
+rank 4 will simulate with thread_count=4, with dt=0.000050 for 36151139 steps from a=0.000000 to b=1807.556960, for 1807.556960 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1807.556960 seconds
+rank 5 of 15, will run simulation for 1809.068352 time
+rank 5 will simulate with thread_count=4, with dt=0.000050 for 36181367 steps from a=0.000000 to b=1809.068352, for 1809.068352 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1809.068352 seconds
+rank 6 of 15, will run simulation for 1810.579744 time
+rank 6 will simulate with thread_count=4, with dt=0.000050 for 36211594 steps from a=0.000000 to b=1810.579744, for 1810.579744 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1810.579744 seconds
+rank 7 of 15, will run simulation for 1812.091136 time
+rank 7 will simulate with thread_count=4, with dt=0.000050 for 36241822 steps from a=0.000000 to b=1812.091136, for 1812.091136 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1812.091136 seconds
+rank 8 of 15, will run simulation for 1813.602528 time
+rank 8 will simulate with thread_count=4, with dt=0.000050 for 36272050 steps from a=0.000000 to b=1813.602528, for 1813.602528 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1813.602528 seconds
+rank 9 of 15, will run simulation for 1815.113920 time
+rank 9 will simulate with thread_count=4, with dt=0.000050 for 36302278 steps from a=0.000000 to b=1815.113920, for 1815.113920 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1815.113920 seconds
+rank 10 of 15, will run simulation for 1816.625312 time
+rank 10 will simulate with thread_count=4, with dt=0.000050 for 36332506 steps from a=0.000000 to b=1816.625312, for 1816.625312 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1816.625312 seconds
+rank 11 of 15, will run simulation for 1818.136704 time
+rank 11 will simulate with thread_count=4, with dt=0.000050 for 36362734 steps from a=0.000000 to b=1818.136704, for 1818.136704 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1818.136704 seconds
+rank 12 of 15, will run simulation for 1819.648096 time
+rank 12 will simulate with thread_count=4, with dt=0.000050 for 36392961 steps from a=0.000000 to b=1819.648096, for 1819.648096 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1819.648096 seconds
+rank 13 of 15, will run simulation for 1821.159488 time
+rank 13 will simulate with thread_count=4, with dt=0.000050 for 36423189 steps from a=0.000000 to b=1821.159488, for 1821.159488 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1821.159488 seconds
+rank 0 of 15, will run simulation for 1801.511392 time
+rank 0 will simulate with thread_count=4, with dt=0.000050 for 36030227 steps from a=0.000000 to b=1801.511392, for 1801.511392 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1801.511392 seconds
+rank 14 of 15, will run simulation for 1822.670880 time
+rank 14 will simulate with thread_count=4, with dt=0.000050 for 36453417 steps from a=0.000000 to b=1822.670880, for 1822.670880 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1822.670880 seconds
+Rank 0, simulated train from function in 0.965054 seconds: final velocity = 0.000000, final position = 120684.944768, ave velocity=66.990942, remaining dist=1315.055232, added time=19.630344
+Rank 1, simulated train from function in 3.037149 seconds: final velocity = 0.000000, final position = 120887.528858, ave velocity=67.047144, remaining dist=1112.471142, added time=16.592372
+Rank 2, simulated train from function in 3.061908 seconds: final velocity = 0.000000, final position = 121090.282837, ave velocity=67.103347, remaining dist=909.717163, added time=13.556957
+Rank 3, simulated train from function in 3.061363 seconds: final velocity = -0.000000, final position = 121293.206703, ave velocity=67.159549, remaining dist=706.793297, added time=10.524092
+Rank 4, simulated train from function in 3.063093 seconds: final velocity = -0.000000, final position = 121496.300458, ave velocity=67.215752, remaining dist=503.699542, added time=7.493772
+Rank 5, simulated train from function in 3.068780 seconds: final velocity = 0.000000, final position = 121699.564101, ave velocity=67.271955, remaining dist=300.435899, added time=4.465990
+Rank 6, simulated train from function in 3.068338 seconds: final velocity = 0.000000, final position = 121902.997633, ave velocity=67.328157, remaining dist=97.002367, added time=1.440740
+Rank 7, simulated train from function in 3.081265 seconds: final velocity = 0.000000, final position = 122106.601052, ave velocity=67.384360, remaining dist=-106.601052, added time=-1.581985
+Rank 8, simulated train from function in 3.077310 seconds: final velocity = -0.000000, final position = 122310.374360, ave velocity=67.440562, remaining dist=-310.374360, added time=-4.602191
+Rank 9, simulated train from function in 3.077512 seconds: final velocity = 0.000000, final position = 122514.317556, ave velocity=67.496765, remaining dist=-514.317556, added time=-7.619885
+Rank 10, simulated train from function in 3.061557 seconds: final velocity = -0.000000, final position = 122718.430641, ave velocity=67.552967, remaining dist=-718.430641, added time=-10.635072
+Rank 11, simulated train from function in 3.081958 seconds: final velocity = -0.000000, final position = 122922.713613, ave velocity=67.609170, remaining dist=-922.713613, added time=-13.647758
+Rank 12, simulated train from function in 3.089987 seconds: final velocity = 0.000000, final position = 123127.166474, ave velocity=67.665373, remaining dist=-1127.166474, added time=-16.657951
+Rank 13, simulated train from function in 3.086325 seconds: final velocity = 0.000000, final position = 123331.789223, ave velocity=67.721575, remaining dist=-1331.789223, added time=-19.665656
+Rank 14, simulated train from function in 3.090907 seconds: final velocity = -0.000000, final position = 123536.581860, ave velocity=67.777778, remaining dist=-1536.581860, added time=-22.670880
+rank = 6 has leastErr=97.002367, leastErr=97.002367
+
+Program total runtime (seconds):
+4.380981
+================== END TRIAL #6 ==================
+==================== TRIAL #7 ====================
+
+Use: simtrain [threads] [dt] [duration] [integrator is 0=Riemann, 1=Trap, 2=Simpsons, 3=RK4]
+Will simulate with thread_count=4, with dt=0.000050 for 36000000 steps for 1800.000000 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1800.000000 seconds
+Train from function in 0.962547 seconds: final velocity = 0.000000, final position = 120482.530566, ave velocity=66.934739, remaining dist=1517.469434, added time=22.670880
+rank 1 of 15, will run simulation for 1803.022784 time
+rank 1 will simulate with thread_count=4, with dt=0.000050 for 36060455 steps from a=0.000000 to b=1803.022784, for 1803.022784 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1803.022784 seconds
+rank 2 of 15, will run simulation for 1804.534176 time
+rank 2 will simulate with thread_count=4, with dt=0.000050 for 36090683 steps from a=0.000000 to b=1804.534176, for 1804.534176 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1804.534176 seconds
+rank 3 of 15, will run simulation for 1806.045568 time
+rank 3 will simulate with thread_count=4, with dt=0.000050 for 36120911 steps from a=0.000000 to b=1806.045568, for 1806.045568 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1806.045568 seconds
+rank 4 of 15, will run simulation for 1807.556960 time
+rank 4 will simulate with thread_count=4, with dt=0.000050 for 36151139 steps from a=0.000000 to b=1807.556960, for 1807.556960 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1807.556960 seconds
+rank 5 of 15, will run simulation for 1809.068352 time
+rank 5 will simulate with thread_count=4, with dt=0.000050 for 36181367 steps from a=0.000000 to b=1809.068352, for 1809.068352 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1809.068352 seconds
+rank 6 of 15, will run simulation for 1810.579744 time
+rank 6 will simulate with thread_count=4, with dt=0.000050 for 36211594 steps from a=0.000000 to b=1810.579744, for 1810.579744 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1810.579744 seconds
+rank 7 of 15, will run simulation for 1812.091136 time
+rank 7 will simulate with thread_count=4, with dt=0.000050 for 36241822 steps from a=0.000000 to b=1812.091136, for 1812.091136 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1812.091136 seconds
+rank 8 of 15, will run simulation for 1813.602528 time
+rank 8 will simulate with thread_count=4, with dt=0.000050 for 36272050 steps from a=0.000000 to b=1813.602528, for 1813.602528 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1813.602528 seconds
+rank 9 of 15, will run simulation for 1815.113920 time
+rank 9 will simulate with thread_count=4, with dt=0.000050 for 36302278 steps from a=0.000000 to b=1815.113920, for 1815.113920 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1815.113920 seconds
+rank 10 of 15, will run simulation for 1816.625312 time
+rank 10 will simulate with thread_count=4, with dt=0.000050 for 36332506 steps from a=0.000000 to b=1816.625312, for 1816.625312 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1816.625312 seconds
+rank 11 of 15, will run simulation for 1818.136704 time
+rank 11 will simulate with thread_count=4, with dt=0.000050 for 36362734 steps from a=0.000000 to b=1818.136704, for 1818.136704 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1818.136704 seconds
+rank 12 of 15, will run simulation for 1819.648096 time
+rank 12 will simulate with thread_count=4, with dt=0.000050 for 36392961 steps from a=0.000000 to b=1819.648096, for 1819.648096 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1819.648096 seconds
+rank 13 of 15, will run simulation for 1821.159488 time
+rank 13 will simulate with thread_count=4, with dt=0.000050 for 36423189 steps from a=0.000000 to b=1821.159488, for 1821.159488 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1821.159488 seconds
+rank 0 of 15, will run simulation for 1801.511392 time
+rank 0 will simulate with thread_count=4, with dt=0.000050 for 36030227 steps from a=0.000000 to b=1801.511392, for 1801.511392 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1801.511392 seconds
+rank 14 of 15, will run simulation for 1822.670880 time
+rank 14 will simulate with thread_count=4, with dt=0.000050 for 36453417 steps from a=0.000000 to b=1822.670880, for 1822.670880 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1822.670880 seconds
+Rank 0, simulated train from function in 0.963234 seconds: final velocity = 0.000000, final position = 120684.944768, ave velocity=66.990942, remaining dist=1315.055232, added time=19.630344
+Rank 1, simulated train from function in 3.005359 seconds: final velocity = 0.000000, final position = 120887.528858, ave velocity=67.047144, remaining dist=1112.471142, added time=16.592372
+Rank 3, simulated train from function in 3.042806 seconds: final velocity = -0.000000, final position = 121293.206703, ave velocity=67.159549, remaining dist=706.793297, added time=10.524092
+Rank 2, simulated train from function in 3.067978 seconds: final velocity = 0.000000, final position = 121090.282837, ave velocity=67.103347, remaining dist=909.717163, added time=13.556957
+Rank 4, simulated train from function in 3.073448 seconds: final velocity = -0.000000, final position = 121496.300458, ave velocity=67.215752, remaining dist=503.699542, added time=7.493772
+Rank 5, simulated train from function in 3.074025 seconds: final velocity = 0.000000, final position = 121699.564101, ave velocity=67.271955, remaining dist=300.435899, added time=4.465990
+Rank 6, simulated train from function in 3.077776 seconds: final velocity = 0.000000, final position = 121902.997633, ave velocity=67.328157, remaining dist=97.002367, added time=1.440740
+Rank 7, simulated train from function in 3.069601 seconds: final velocity = 0.000000, final position = 122106.601052, ave velocity=67.384360, remaining dist=-106.601052, added time=-1.581985
+Rank 8, simulated train from function in 3.081255 seconds: final velocity = -0.000000, final position = 122310.374360, ave velocity=67.440562, remaining dist=-310.374360, added time=-4.602191
+Rank 9, simulated train from function in 3.077778 seconds: final velocity = 0.000000, final position = 122514.317556, ave velocity=67.496765, remaining dist=-514.317556, added time=-7.619885
+Rank 10, simulated train from function in 3.090553 seconds: final velocity = -0.000000, final position = 122718.430641, ave velocity=67.552967, remaining dist=-718.430641, added time=-10.635072
+Rank 11, simulated train from function in 3.087920 seconds: final velocity = -0.000000, final position = 122922.713613, ave velocity=67.609170, remaining dist=-922.713613, added time=-13.647758
+Rank 12, simulated train from function in 3.080055 seconds: final velocity = 0.000000, final position = 123127.166474, ave velocity=67.665373, remaining dist=-1127.166474, added time=-16.657951
+Rank 13, simulated train from function in 3.094534 seconds: final velocity = 0.000000, final position = 123331.789223, ave velocity=67.721575, remaining dist=-1331.789223, added time=-19.665656
+Rank 14, simulated train from function in 3.101750 seconds: final velocity = -0.000000, final position = 123536.581860, ave velocity=67.777778, remaining dist=-1536.581860, added time=-22.670880
+rank = 6 has leastErr=97.002367, leastErr=97.002367
+
+Program total runtime (seconds):
+4.372441
+================== END TRIAL #7 ==================
+==================== TRIAL #8 ====================
+
+Use: simtrain [threads] [dt] [duration] [integrator is 0=Riemann, 1=Trap, 2=Simpsons, 3=RK4]
+Will simulate with thread_count=4, with dt=0.000050 for 36000000 steps for 1800.000000 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1800.000000 seconds
+Train from function in 0.964434 seconds: final velocity = 0.000000, final position = 120482.530566, ave velocity=66.934739, remaining dist=1517.469434, added time=22.670880
+rank 1 of 15, will run simulation for 1803.022784 time
+rank 1 will simulate with thread_count=4, with dt=0.000050 for 36060455 steps from a=0.000000 to b=1803.022784, for 1803.022784 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1803.022784 seconds
+rank 2 of 15, will run simulation for 1804.534176 time
+rank 2 will simulate with thread_count=4, with dt=0.000050 for 36090683 steps from a=0.000000 to b=1804.534176, for 1804.534176 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1804.534176 seconds
+rank 3 of 15, will run simulation for 1806.045568 time
+rank 3 will simulate with thread_count=4, with dt=0.000050 for 36120911 steps from a=0.000000 to b=1806.045568, for 1806.045568 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1806.045568 seconds
+rank 4 of 15, will run simulation for 1807.556960 time
+rank 4 will simulate with thread_count=4, with dt=0.000050 for 36151139 steps from a=0.000000 to b=1807.556960, for 1807.556960 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1807.556960 seconds
+rank 5 of 15, will run simulation for 1809.068352 time
+rank 5 will simulate with thread_count=4, with dt=0.000050 for 36181367 steps from a=0.000000 to b=1809.068352, for 1809.068352 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1809.068352 seconds
+rank 6 of 15, will run simulation for 1810.579744 time
+rank 6 will simulate with thread_count=4, with dt=0.000050 for 36211594 steps from a=0.000000 to b=1810.579744, for 1810.579744 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1810.579744 seconds
+rank 7 of 15, will run simulation for 1812.091136 time
+rank 7 will simulate with thread_count=4, with dt=0.000050 for 36241822 steps from a=0.000000 to b=1812.091136, for 1812.091136 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1812.091136 seconds
+rank 8 of 15, will run simulation for 1813.602528 time
+rank 8 will simulate with thread_count=4, with dt=0.000050 for 36272050 steps from a=0.000000 to b=1813.602528, for 1813.602528 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1813.602528 seconds
+rank 9 of 15, will run simulation for 1815.113920 time
+rank 9 will simulate with thread_count=4, with dt=0.000050 for 36302278 steps from a=0.000000 to b=1815.113920, for 1815.113920 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1815.113920 seconds
+rank 10 of 15, will run simulation for 1816.625312 time
+rank 10 will simulate with thread_count=4, with dt=0.000050 for 36332506 steps from a=0.000000 to b=1816.625312, for 1816.625312 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1816.625312 seconds
+rank 11 of 15, will run simulation for 1818.136704 time
+rank 11 will simulate with thread_count=4, with dt=0.000050 for 36362734 steps from a=0.000000 to b=1818.136704, for 1818.136704 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1818.136704 seconds
+rank 12 of 15, will run simulation for 1819.648096 time
+rank 12 will simulate with thread_count=4, with dt=0.000050 for 36392961 steps from a=0.000000 to b=1819.648096, for 1819.648096 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1819.648096 seconds
+rank 13 of 15, will run simulation for 1821.159488 time
+rank 13 will simulate with thread_count=4, with dt=0.000050 for 36423189 steps from a=0.000000 to b=1821.159488, for 1821.159488 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1821.159488 seconds
+rank 14 of 15, will run simulation for 1822.670880 time
+rank 14 will simulate with thread_count=4, with dt=0.000050 for 36453417 steps from a=0.000000 to b=1822.670880, for 1822.670880 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1822.670880 seconds
+rank 0 of 15, will run simulation for 1801.511392 time
+rank 0 will simulate with thread_count=4, with dt=0.000050 for 36030227 steps from a=0.000000 to b=1801.511392, for 1801.511392 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1801.511392 seconds
+Rank 0, simulated train from function in 0.961403 seconds: final velocity = 0.000000, final position = 120684.944768, ave velocity=66.990942, remaining dist=1315.055232, added time=19.630344
+Rank 1, simulated train from function in 3.012278 seconds: final velocity = 0.000000, final position = 120887.528858, ave velocity=67.047144, remaining dist=1112.471142, added time=16.592372
+Rank 2, simulated train from function in 3.041680 seconds: final velocity = 0.000000, final position = 121090.282837, ave velocity=67.103347, remaining dist=909.717163, added time=13.556957
+Rank 3, simulated train from function in 3.029664 seconds: final velocity = -0.000000, final position = 121293.206703, ave velocity=67.159549, remaining dist=706.793297, added time=10.524092
+Rank 4, simulated train from function in 3.067614 seconds: final velocity = -0.000000, final position = 121496.300458, ave velocity=67.215752, remaining dist=503.699542, added time=7.493772
+Rank 5, simulated train from function in 3.067705 seconds: final velocity = 0.000000, final position = 121699.564101, ave velocity=67.271955, remaining dist=300.435899, added time=4.465990
+Rank 6, simulated train from function in 3.073313 seconds: final velocity = 0.000000, final position = 121902.997633, ave velocity=67.328157, remaining dist=97.002367, added time=1.440740
+Rank 7, simulated train from function in 3.062703 seconds: final velocity = 0.000000, final position = 122106.601052, ave velocity=67.384360, remaining dist=-106.601052, added time=-1.581985
+Rank 8, simulated train from function in 3.076787 seconds: final velocity = -0.000000, final position = 122310.374360, ave velocity=67.440562, remaining dist=-310.374360, added time=-4.602191
+Rank 9, simulated train from function in 3.076112 seconds: final velocity = 0.000000, final position = 122514.317556, ave velocity=67.496765, remaining dist=-514.317556, added time=-7.619885
+Rank 10, simulated train from function in 3.081824 seconds: final velocity = -0.000000, final position = 122718.430641, ave velocity=67.552967, remaining dist=-718.430641, added time=-10.635072
+Rank 11, simulated train from function in 3.093076 seconds: final velocity = -0.000000, final position = 122922.713613, ave velocity=67.609170, remaining dist=-922.713613, added time=-13.647758
+Rank 12, simulated train from function in 3.083696 seconds: final velocity = 0.000000, final position = 123127.166474, ave velocity=67.665373, remaining dist=-1127.166474, added time=-16.657951
+Rank 13, simulated train from function in 3.089762 seconds: final velocity = 0.000000, final position = 123331.789223, ave velocity=67.721575, remaining dist=-1331.789223, added time=-19.665656
+Rank 14, simulated train from function in 3.089341 seconds: final velocity = -0.000000, final position = 123536.581860, ave velocity=67.777778, remaining dist=-1536.581860, added time=-22.670880
+rank = 6 has leastErr=97.002367, leastErr=97.002367
+
+Program total runtime (seconds):
+4.345552
+================== END TRIAL #8 ==================
+==================== TRIAL #9 ====================
+
+Use: simtrain [threads] [dt] [duration] [integrator is 0=Riemann, 1=Trap, 2=Simpsons, 3=RK4]
+Will simulate with thread_count=4, with dt=0.000050 for 36000000 steps for 1800.000000 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1800.000000 seconds
+Train from function in 0.962452 seconds: final velocity = 0.000000, final position = 120482.530566, ave velocity=66.934739, remaining dist=1517.469434, added time=22.670880
+rank 1 of 15, will run simulation for 1803.022784 time
+rank 1 will simulate with thread_count=4, with dt=0.000050 for 36060455 steps from a=0.000000 to b=1803.022784, for 1803.022784 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1803.022784 seconds
+rank 2 of 15, will run simulation for 1804.534176 time
+rank 2 will simulate with thread_count=4, with dt=0.000050 for 36090683 steps from a=0.000000 to b=1804.534176, for 1804.534176 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1804.534176 seconds
+rank 3 of 15, will run simulation for 1806.045568 time
+rank 3 will simulate with thread_count=4, with dt=0.000050 for 36120911 steps from a=0.000000 to b=1806.045568, for 1806.045568 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1806.045568 seconds
+rank 4 of 15, will run simulation for 1807.556960 time
+rank 4 will simulate with thread_count=4, with dt=0.000050 for 36151139 steps from a=0.000000 to b=1807.556960, for 1807.556960 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1807.556960 seconds
+rank 5 of 15, will run simulation for 1809.068352 time
+rank 5 will simulate with thread_count=4, with dt=0.000050 for 36181367 steps from a=0.000000 to b=1809.068352, for 1809.068352 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1809.068352 seconds
+rank 6 of 15, will run simulation for 1810.579744 time
+rank 6 will simulate with thread_count=4, with dt=0.000050 for 36211594 steps from a=0.000000 to b=1810.579744, for 1810.579744 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1810.579744 seconds
+rank 7 of 15, will run simulation for 1812.091136 time
+rank 7 will simulate with thread_count=4, with dt=0.000050 for 36241822 steps from a=0.000000 to b=1812.091136, for 1812.091136 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1812.091136 seconds
+rank 8 of 15, will run simulation for 1813.602528 time
+rank 8 will simulate with thread_count=4, with dt=0.000050 for 36272050 steps from a=0.000000 to b=1813.602528, for 1813.602528 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1813.602528 seconds
+rank 9 of 15, will run simulation for 1815.113920 time
+rank 9 will simulate with thread_count=4, with dt=0.000050 for 36302278 steps from a=0.000000 to b=1815.113920, for 1815.113920 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1815.113920 seconds
+rank 10 of 15, will run simulation for 1816.625312 time
+rank 10 will simulate with thread_count=4, with dt=0.000050 for 36332506 steps from a=0.000000 to b=1816.625312, for 1816.625312 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1816.625312 seconds
+rank 11 of 15, will run simulation for 1818.136704 time
+rank 11 will simulate with thread_count=4, with dt=0.000050 for 36362734 steps from a=0.000000 to b=1818.136704, for 1818.136704 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1818.136704 seconds
+rank 12 of 15, will run simulation for 1819.648096 time
+rank 12 will simulate with thread_count=4, with dt=0.000050 for 36392961 steps from a=0.000000 to b=1819.648096, for 1819.648096 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1819.648096 seconds
+rank 13 of 15, will run simulation for 1821.159488 time
+rank 13 will simulate with thread_count=4, with dt=0.000050 for 36423189 steps from a=0.000000 to b=1821.159488, for 1821.159488 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1821.159488 seconds
+rank 0 of 15, will run simulation for 1801.511392 time
+rank 0 will simulate with thread_count=4, with dt=0.000050 for 36030227 steps from a=0.000000 to b=1801.511392, for 1801.511392 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1801.511392 seconds
+rank 14 of 15, will run simulation for 1822.670880 time
+rank 14 will simulate with thread_count=4, with dt=0.000050 for 36453417 steps from a=0.000000 to b=1822.670880, for 1822.670880 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1822.670880 seconds
+Rank 0, simulated train from function in 0.963222 seconds: final velocity = 0.000000, final position = 120684.944768, ave velocity=66.990942, remaining dist=1315.055232, added time=19.630344
+Rank 1, simulated train from function in 3.060081 seconds: final velocity = 0.000000, final position = 120887.528858, ave velocity=67.047144, remaining dist=1112.471142, added time=16.592372
+Rank 3, simulated train from function in 3.029380 seconds: final velocity = -0.000000, final position = 121293.206703, ave velocity=67.159549, remaining dist=706.793297, added time=10.524092
+Rank 2, simulated train from function in 3.059357 seconds: final velocity = 0.000000, final position = 121090.282837, ave velocity=67.103347, remaining dist=909.717163, added time=13.556957
+Rank 4, simulated train from function in 3.070482 seconds: final velocity = -0.000000, final position = 121496.300458, ave velocity=67.215752, remaining dist=503.699542, added time=7.493772
+Rank 5, simulated train from function in 3.071242 seconds: final velocity = 0.000000, final position = 121699.564101, ave velocity=67.271955, remaining dist=300.435899, added time=4.465990
+Rank 6, simulated train from function in 3.065105 seconds: final velocity = 0.000000, final position = 121902.997633, ave velocity=67.328157, remaining dist=97.002367, added time=1.440740
+Rank 7, simulated train from function in 3.072607 seconds: final velocity = 0.000000, final position = 122106.601052, ave velocity=67.384360, remaining dist=-106.601052, added time=-1.581985
+Rank 8, simulated train from function in 3.074303 seconds: final velocity = -0.000000, final position = 122310.374360, ave velocity=67.440562, remaining dist=-310.374360, added time=-4.602191
+Rank 9, simulated train from function in 3.076298 seconds: final velocity = 0.000000, final position = 122514.317556, ave velocity=67.496765, remaining dist=-514.317556, added time=-7.619885
+Rank 10, simulated train from function in 3.086037 seconds: final velocity = -0.000000, final position = 122718.430641, ave velocity=67.552967, remaining dist=-718.430641, added time=-10.635072
+Rank 12, simulated train from function in 3.089644 seconds: final velocity = 0.000000, final position = 123127.166474, ave velocity=67.665373, remaining dist=-1127.166474, added time=-16.657951
+Rank 13, simulated train from function in 3.085792 seconds: final velocity = 0.000000, final position = 123331.789223, ave velocity=67.721575, remaining dist=-1331.789223, added time=-19.665656
+Rank 14, simulated train from function in 3.073921 seconds: final velocity = -0.000000, final position = 123536.581860, ave velocity=67.777778, remaining dist=-1536.581860, added time=-22.670880
+Rank 11, simulated train from function in 3.140262 seconds: final velocity = -0.000000, final position = 122922.713613, ave velocity=67.609170, remaining dist=-922.713613, added time=-13.647758
+rank = 6 has leastErr=97.002367, leastErr=97.002367
+
+Program total runtime (seconds):
+4.377369
+================== END TRIAL #9 ==================
+==================== TRIAL #10 ====================
+
+Use: simtrain [threads] [dt] [duration] [integrator is 0=Riemann, 1=Trap, 2=Simpsons, 3=RK4]
+Will simulate with thread_count=4, with dt=0.000050 for 36000000 steps for 1800.000000 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1800.000000 seconds
+Train from function in 0.963673 seconds: final velocity = 0.000000, final position = 120482.530566, ave velocity=66.934739, remaining dist=1517.469434, added time=22.670880
+rank 1 of 15, will run simulation for 1803.022784 time
+rank 1 will simulate with thread_count=4, with dt=0.000050 for 36060455 steps from a=0.000000 to b=1803.022784, for 1803.022784 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1803.022784 seconds
+rank 2 of 15, will run simulation for 1804.534176 time
+rank 2 will simulate with thread_count=4, with dt=0.000050 for 36090683 steps from a=0.000000 to b=1804.534176, for 1804.534176 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1804.534176 seconds
+rank 3 of 15, will run simulation for 1806.045568 time
+rank 3 will simulate with thread_count=4, with dt=0.000050 for 36120911 steps from a=0.000000 to b=1806.045568, for 1806.045568 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1806.045568 seconds
+rank 4 of 15, will run simulation for 1807.556960 time
+rank 4 will simulate with thread_count=4, with dt=0.000050 for 36151139 steps from a=0.000000 to b=1807.556960, for 1807.556960 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1807.556960 seconds
+rank 5 of 15, will run simulation for 1809.068352 time
+rank 5 will simulate with thread_count=4, with dt=0.000050 for 36181367 steps from a=0.000000 to b=1809.068352, for 1809.068352 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1809.068352 seconds
+rank 6 of 15, will run simulation for 1810.579744 time
+rank 6 will simulate with thread_count=4, with dt=0.000050 for 36211594 steps from a=0.000000 to b=1810.579744, for 1810.579744 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1810.579744 seconds
+rank 7 of 15, will run simulation for 1812.091136 time
+rank 7 will simulate with thread_count=4, with dt=0.000050 for 36241822 steps from a=0.000000 to b=1812.091136, for 1812.091136 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1812.091136 seconds
+rank 8 of 15, will run simulation for 1813.602528 time
+rank 8 will simulate with thread_count=4, with dt=0.000050 for 36272050 steps from a=0.000000 to b=1813.602528, for 1813.602528 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1813.602528 seconds
+rank 9 of 15, will run simulation for 1815.113920 time
+rank 9 will simulate with thread_count=4, with dt=0.000050 for 36302278 steps from a=0.000000 to b=1815.113920, for 1815.113920 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1815.113920 seconds
+rank 10 of 15, will run simulation for 1816.625312 time
+rank 10 will simulate with thread_count=4, with dt=0.000050 for 36332506 steps from a=0.000000 to b=1816.625312, for 1816.625312 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1816.625312 seconds
+rank 11 of 15, will run simulation for 1818.136704 time
+rank 11 will simulate with thread_count=4, with dt=0.000050 for 36362734 steps from a=0.000000 to b=1818.136704, for 1818.136704 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1818.136704 seconds
+rank 12 of 15, will run simulation for 1819.648096 time
+rank 12 will simulate with thread_count=4, with dt=0.000050 for 36392961 steps from a=0.000000 to b=1819.648096, for 1819.648096 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1819.648096 seconds
+rank 13 of 15, will run simulation for 1821.159488 time
+rank 13 will simulate with thread_count=4, with dt=0.000050 for 36423189 steps from a=0.000000 to b=1821.159488, for 1821.159488 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1821.159488 seconds
+rank 0 of 15, will run simulation for 1801.511392 time
+rank 0 will simulate with thread_count=4, with dt=0.000050 for 36030227 steps from a=0.000000 to b=1801.511392, for 1801.511392 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1801.511392 seconds
+rank 14 of 15, will run simulation for 1822.670880 time
+rank 14 will simulate with thread_count=4, with dt=0.000050 for 36453417 steps from a=0.000000 to b=1822.670880, for 1822.670880 seconds with integrator Runge-Kutta-4
+
+
+THREADED INTEGRATOR Runge-Kutta-4: test for duration 1822.670880 seconds
+Rank 0, simulated train from function in 0.961617 seconds: final velocity = 0.000000, final position = 120684.944768, ave velocity=66.990942, remaining dist=1315.055232, added time=19.630344
+Rank 1, simulated train from function in 3.041859 seconds: final velocity = 0.000000, final position = 120887.528858, ave velocity=67.047144, remaining dist=1112.471142, added time=16.592372
+Rank 2, simulated train from function in 3.060324 seconds: final velocity = 0.000000, final position = 121090.282837, ave velocity=67.103347, remaining dist=909.717163, added time=13.556957
+Rank 3, simulated train from function in 3.061735 seconds: final velocity = -0.000000, final position = 121293.206703, ave velocity=67.159549, remaining dist=706.793297, added time=10.524092
+Rank 4, simulated train from function in 3.062893 seconds: final velocity = -0.000000, final position = 121496.300458, ave velocity=67.215752, remaining dist=503.699542, added time=7.493772
+Rank 5, simulated train from function in 3.065891 seconds: final velocity = 0.000000, final position = 121699.564101, ave velocity=67.271955, remaining dist=300.435899, added time=4.465990
+Rank 7, simulated train from function in 3.051687 seconds: final velocity = 0.000000, final position = 122106.601052, ave velocity=67.384360, remaining dist=-106.601052, added time=-1.581985
+Rank 6, simulated train from function in 3.069065 seconds: final velocity = 0.000000, final position = 121902.997633, ave velocity=67.328157, remaining dist=97.002367, added time=1.440740
+Rank 8, simulated train from function in 3.086621 seconds: final velocity = -0.000000, final position = 122310.374360, ave velocity=67.440562, remaining dist=-310.374360, added time=-4.602191
+Rank 9, simulated train from function in 3.076741 seconds: final velocity = 0.000000, final position = 122514.317556, ave velocity=67.496765, remaining dist=-514.317556, added time=-7.619885
+Rank 10, simulated train from function in 3.081675 seconds: final velocity = -0.000000, final position = 122718.430641, ave velocity=67.552967, remaining dist=-718.430641, added time=-10.635072
+Rank 11, simulated train from function in 3.081823 seconds: final velocity = -0.000000, final position = 122922.713613, ave velocity=67.609170, remaining dist=-922.713613, added time=-13.647758
+Rank 12, simulated train from function in 3.097001 seconds: final velocity = 0.000000, final position = 123127.166474, ave velocity=67.665373, remaining dist=-1127.166474, added time=-16.657951
+Rank 13, simulated train from function in 3.087330 seconds: final velocity = 0.000000, final position = 123331.789223, ave velocity=67.721575, remaining dist=-1331.789223, added time=-19.665656
+Rank 14, simulated train from function in 3.098859 seconds: final velocity = -0.000000, final position = 123536.581860, ave velocity=67.777778, remaining dist=-1536.581860, added time=-22.670880
+rank = 6 has leastErr=97.002367, leastErr=97.002367
+
+Program total runtime (seconds):
+4.378828
+================== END TRIAL #10 ==================

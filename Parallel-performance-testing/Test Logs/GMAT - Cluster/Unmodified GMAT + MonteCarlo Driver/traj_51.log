@@ -1,0 +1,132 @@
+
+********************************************
+***  GMAT Console Application
+********************************************
+
+General Mission Analysis Tool
+Console Based Version
+Build Date: Jan  6 2026  18:00:45
+
+
+GMAT working directory set to '/user/home/jbcollins/gmat-ieee-aerospace-26/application/bin/'
+Moderator is updating data files...
+Moderator is creating core engine...
+
+../plugins/libDataInterface.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libDataInterface" did not open.
+
+../plugins/libEphemPropagator.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libEphemPropagator" did not open.
+
+../plugins/libEventLocator.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libEventLocator" did not open.
+
+../plugins/libFormation.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libFormation" did not open.
+
+../plugins/libGmatFunction.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libGmatFunction" did not open.
+
+../plugins/libNewParameters.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libNewParameters" did not open.
+
+../plugins/libPythonInterface_py39.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libPythonInterface_py39" did not open.
+
+../plugins/libStation.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libStation" did not open.
+
+../plugins/libMatlabInterface.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libMatlabInterface" did not open.
+
+../plugins/libFminconOptimizer.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libFminconOptimizer" did not open.
+
+../plugins/libProductionPropagators.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libProductionPropagators" did not open.
+
+../plugins/libGmatEstimation.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libGmatEstimation" did not open.
+
+../plugins/libYukonOptimizer.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libYukonOptimizer" did not open.
+
+../plugins/libScriptTools.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libScriptTools" did not open.
+
+../plugins/libThrustFile.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libThrustFile" did not open.
+
+../plugins/libEKF.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libEKF" did not open.
+
+../plugins/thinksys/libTLEPropagator.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/thinksys/libTLEPropagator" did not open.
+
+../plugins/proprietary/libCsaltInterface.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/proprietary/libCsaltInterface" did not open.
+
+../plugins/proprietary/libEMTGModels.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/proprietary/libEMTGModels" did not open.
+
+../plugins/proprietary/libMarsGRAM.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/proprietary/libMarsGRAM" did not open.
+
+../plugins/proprietary/libMsise86.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/proprietary/libMsise86" did not open.
+
+../plugins/proprietary/libNRLMsise00.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/proprietary/libNRLMsise00" did not open.
+
+../plugins/proprietary/libSNOptimizer.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/proprietary/libSNOptimizer" did not open.
+
+../plugins/proprietary/libVF13Optimizer.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/proprietary/libVF13Optimizer" did not open.
+
+../plugins/libOpenFramesInterface.so: cannot open shared object file: No such file or directory
+*** Library "../plugins/libOpenFramesInterface" did not open.
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+Setting nutation file to ../data/planetary_coeff/NUTATION.DAT
+Setting leap seconds file to ../data/time/tai-utc.dat
+2026-01-06 23:05:51 GMAT Moderator successfully created core engine
+
+Interpreting scripts from the file.
+***** file: /user/home/jbcollins/gmat-ieee-aerospace-26/application/bin/MonteCarlo/trajectory_51.script
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+1: /user/home/jbcollins/gmat-ieee-aerospace-26/application/bin/MonteCarlo/trajectory_51.script: *** WARNING *** Interpreter Exception: The field "Drag" of ForceModel "FM" will not be permitted in a future build; please use "Drag.AtmosphereModel" instead in line:
+   "  20: FM.Drag = Exponential;"
+
+Successfully interpreted the script
+.................... Print out the whole sequence ........................................
+   Command::NoOp
+   Command::BeginMissionSequence
+   Command::Report
+   Command::Propagate
+   Command::Report
+.................... End sequence ........................................................
+Running mission...
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+Kernel ../data/planetary_ephem/spk/DE405AllPlanets.bsp has been loaded.
+Kernel ../data/planetary_coeff/SPICEPlanetaryConstantsKernel.tpc has been loaded.
+Kernel ../data/time/SPICELeapSecondKernel.tls has been loaded.
+Kernel ../data/planetary_coeff/SPICEEarthPredictedKernel.bpc has been loaded.
+Kernel ../data/planetary_coeff/SPICEEarthCurrentKernel.bpc has been loaded.
+Kernel ../data/planetary_coeff/earth_latest_high_prec.bpc has been loaded.
+Kernel ../data/planetary_coeff/SPICELunaCurrentKernel.bpc has been loaded.
+Kernel ../data/planetary_coeff/SPICELunaFrameKernel.tf has been loaded.
+Using default potential file "../data/gravity/earth/JGM2.cof" for GravityField object "GravityField.Earth"
+
+Mission run completed.
+===> Total Run Time: 20.735 seconds
+
+========================================
+
+
+*** GMAT Integration test (Console version) successful! ***
+
+Moderator is deleting core engine...
